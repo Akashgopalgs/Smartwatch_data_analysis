@@ -2,7 +2,7 @@
 
 **Overview**
 
-Customer Data Analysis Using Python: 
+SmartWatch Data Analysis Using Python: 
 
 
 
